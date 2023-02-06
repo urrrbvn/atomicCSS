@@ -1,5 +1,8 @@
 .m0{margin: 0;}
 .m1{margin-bottom: 70px;}
+.m2{margin-left:30px ;}
+.m3{margin-top: 64px;}
+.m4{margin-right: 60px;}
 .bgc1{background-color: green;}
 .bgc2{background-color: whitesmoke;}
 .dflex{display: flex;}
@@ -7,6 +10,7 @@
 .height2{height: 250px;}
 .width1{width: 100%;}
 .width2{width: 500px;}
+.width3{width: 300px;}
 .csize{
     height: 150px;
     width: 600px;
@@ -22,14 +26,26 @@
 .ai{
     align-items: center;
 }
+.ai2{justify-content: flex-start;}
+.jc2{justify-content: center;}
 .br{border-radius: 10px;}
 .fw{flex-wrap: wrap;}
 .fd{flex-direction: column;}
 .fs1{font-size: 52px;}
 .fs2{font-size: 24px;}
+.fs3{font-size: 18px;}
 .tc{color: white;}
+.tc2{color: rgb(35, 35, 35);}
 .ff{font-family: sans-serif;}
 .fow{font-weight: 700;}
 .bgi1{background-image: url(41477_2019_374_Figa_HTML.jpeg);}
-.bgi2{background-image:url(/image_print.jpeg);}
+.bgi2{background-image:url(image_print.jpeg);}
 .bgs{background-size: cover;}
+.pad{padding: 10px;}
+.imgiconh{
+height: 30px;
+}
+.imgiconw{
+    width: 30px;
+}
+.text1{text-align: center;}
