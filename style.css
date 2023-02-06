@@ -1,0 +1,35 @@
+.m0{margin: 0;}
+.m1{margin-bottom: 70px;}
+.bgc1{background-color: green;}
+.bgc2{background-color: whitesmoke;}
+.dflex{display: flex;}
+.height1{height: 1000px;}
+.height2{height: 250px;}
+.width1{width: 100%;}
+.width2{width: 500px;}
+.csize{
+    height: 150px;
+    width: 600px;
+}
+.csize2{height: 500px;
+        width: 500px;
+}
+
+.jc{
+    justify-content: center;
+}
+.jcs{justify-content: space-around;}
+.ai{
+    align-items: center;
+}
+.br{border-radius: 10px;}
+.fw{flex-wrap: wrap;}
+.fd{flex-direction: column;}
+.fs1{font-size: 52px;}
+.fs2{font-size: 24px;}
+.tc{color: white;}
+.ff{font-family: sans-serif;}
+.fow{font-weight: 700;}
+.bgi1{background-image: url(41477_2019_374_Figa_HTML.jpeg);}
+.bgi2{background-image:url(/image_print.jpeg);}
+.bgs{background-size: cover;}
