@@ -38,8 +38,8 @@
 .tc2{color: rgb(35, 35, 35);}
 .ff{font-family: sans-serif;}
 .fow{font-weight: 700;}
-.bgi1{background-image: url(41477_2019_374_Figa_HTML.jpeg);}
-.bgi2{background-image:url(image_print.jpeg);}
+.bgi1{background-image: url(img/41477_2019_374_Figa_HTML.jpeg);}
+.bgi2{background-image:url(img/image_print.jpeg);}
 .bgs{background-size: cover;}
 .pad{padding: 10px;}
 .imgiconh{
